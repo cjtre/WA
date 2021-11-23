@@ -1,3 +1,4 @@
+console.log("Hello")
 const path = require('path')
 const express = require('express');
 const hsb = require('hbs');
